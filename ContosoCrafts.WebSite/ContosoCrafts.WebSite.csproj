@@ -4,9 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4data_4products_1json__JsonSchema="http://json.schemastore.org/appsscript" /></VisualStudio></ProjectExtensions>
 
 
 
